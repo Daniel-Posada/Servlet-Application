@@ -1,5 +1,5 @@
 # Servlet-Application
-Mock database manager for fictional shipyard
+## Mock database manager for fictional shipyard
 <img src = "HomePage.png"> 
 <img src = "Denied.png"> 
 <img src = "RootHome.png"> 
