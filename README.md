@@ -1,6 +1,6 @@
 # Servlet-Application
 ## Mock database manager for fictional shipyard
-This is an application that uses tomcat servlets to create a website. It is supposed to emmulate a managment application for a fake shipyard's database. <br><br>
+This is an application that uses tomcat servlets to create a website which runs entirely on the web browser of the local machine. It is supposed to emmulate a managment application for a fake shipyard's database. <br><br>
 
 ## Home Screen
 You start on the Home screen where it asks you to log in. You have three options, The Root User, the Client User, and the Accountant User. Each one has a different UI and different database permissions. <br> <br>
